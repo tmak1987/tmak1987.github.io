@@ -44,21 +44,21 @@ body {
   border-radius: 100%;
 }
 
-#logo1 {
-  padding: 20px 0;
-  text-align: center;
-}
-
-#logo1 img {
-  max-width: 120px;
-  border: 5px solid #fff;
-  border-radius: 20%;
-}
-
 #logo p {
   letter-spacing: 0.15em;
   color: #fff;
   text-shadow: 1px 1px 0px #000;
+}
+
+.logo1 {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.logo1 img {
+  max-width: 120px;
+  border: 5px solid #fff;
+  border-radius: 20%;
 }
 
 nav {
